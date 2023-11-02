@@ -1,0 +1,17 @@
+[
+    {"id": "Ajkl", "name": "Pokeball", "priceInCents": 200, "inStock": 99},
+    {"id": "yTs3", "name": "Potion", "priceInCents": 300, "inStock": 99},
+    {"id": "sWc3", "name": "Greatball", "priceInCents": 600, "inStock": 20},
+    {"id": "23TF", "name": "Full Heal", "priceInCents": 600, "inStock": 20},
+    {"id": "fThL", "name": "Super Potion", "priceInCents": 700, "inStock": 65},
+    {"id": "12d5", "name": "LuxeBall", "priceInCents": 1000, "inStock": 57},
+    {"id": "PLS2", "name": "Ultraball", "priceInCents": 1200, "inStock": 47},
+    {"id": "kPo5", "name": "Hyper Potion", "priceInCents": 1200, "inStock": 10},
+    {"id": "1tSc", "name": "Revive", "priceInCents": 1500, "inStock": 30},
+    {"id": "4Ths", "name": "Full Restore", "priceInCents": 1500, "inStock": 23},
+    {"id": "gT6s", "name": "Max Elixir", "priceInCents": 2200, "inStock": 5},
+    {"id": "tD45", "name": "Max Revive", "priceInCents": 2500, "inStock": 5},
+    {"id": "sLo3", "name": "Nugget", "priceInCents": 5000, "inStock": 1}
+      
+]
+  
